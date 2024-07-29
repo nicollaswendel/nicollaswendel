@@ -1,4 +1,4 @@
-# Nícollas Wendel
+# Nícollas Viana
 Opa! Sou o Nícollas, um estudante de Análise e Desenvolvimento de Sistemas e futuro programador de Back-End.
 
 ## Conecte-se comigo:
