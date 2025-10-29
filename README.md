@@ -5,14 +5,6 @@ Minha grande ideia é ser um agente de impacto: usar minha inteligência, dedica
 
 Atualmente, foco meus estudos em Java, SQL, HTML, CSS, JavaScript e Inglês, além de desenvolver projetos para fortalecer meu portfólio e consolidar uma carreira sólida em programação.
 
-## Minhas redes:
-**Profissional:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101E44?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicollaswendel/)
-
-**Pessoal:**  
-[![Instagram](https://img.shields.io/badge/Instagram-101E44?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicollas.wendel/)
-[![YouTube](https://img.shields.io/badge/YouTube-101E44?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nicollas.wendel)
-
 ## Aprendendo:
 **Back-End:**  
 ![Java](https://img.shields.io/badge/Java-101E44.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-101E44.svg?style=for-the-badge&logo=postgresql&logoColor=white)
