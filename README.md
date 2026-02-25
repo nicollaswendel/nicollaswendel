@@ -36,8 +36,8 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 # 🚀 Projetos em Destaque
 
-🔹 **archiveAPI**  
-API para gerenciamento de arquivos (upload, listagem, atualização e remoção) com persistência relacional.
+🔹 **StoredFile API**  
+API REST para gerenciamento de arquivos, desenvolvida em Java e Spring Boot, com recursos como upload de arquivos reais, armazenamento em disco, integração com front-end e documentação OpenAPI.
 
 🔹 **Sistema de Gestão**  
 API para gerenciamento de pedidos e produtos com modelagem relacional via JPA/Hibernate.
