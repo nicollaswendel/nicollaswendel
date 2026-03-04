@@ -36,20 +36,17 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 # 🚀 Projetos em Destaque
 
-🔹 **StoredFile API**  
-API REST para gerenciamento de arquivos, desenvolvida em Java e Spring Boot, com recursos como upload de arquivos reais, armazenamento em disco, integração com front-end e documentação OpenAPI.
+🔹 **Stored File**  
+API REST para gerenciamento de arquivos com upload real, armazenamento em disco, listagem, atualização e remoção, além de integração com front-end e documentação via OpenAPI/Swagger.
 
-🔹 **Sistema de Gestão**  
-API para gerenciamento de pedidos e produtos com modelagem relacional via JPA/Hibernate.
+🔹 **Identity Flow**  
+API REST para gerenciamento e autenticação de usuários, com persistência em MySQL, criptografia de senhas, autenticação com Spring Security e integração completa entre front-end e back-end.
 
-🔹 **Sistema de Controle Financeiro**  
-Aplicação fullstack para controle de receitas e despesas com integração frontend–backend via API.
+🔹 **Nex Order – Order Management System**  
+API REST colaborativa para gestão de pedidos, produtos e clientes, estruturada em arquitetura em camadas, modelagem relacional com JPA/Hibernate e versionamento incremental via GitHub Projects.
 
-🔹 **Sistema de Precificação**  
-Implementação de regras de negócio para cálculo de preços e margens com parâmetros dinâmicos.
-
-🔹 **Busca de CEP API**  
-Consumo de API externa (ViaCEP) utilizando requisições HTTP dinâmicas.
+🔹 **Axis Finance**  
+Aplicação fullstack para gestão financeira, com controle de categorias, receitas e despesas, dashboard dinâmico, tratamento global de exceções e integração entre back-end e front-end.
 
 ---
 
