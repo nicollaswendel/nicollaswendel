@@ -1,12 +1,12 @@
 # 👋🏽 Olá, eu sou o Nícollas Wendel
 
-💻 Desenvolvedor Backend com foco em **Java e Spring Boot**  
-🚀 Construindo APIs REST, aplicando regras de negócio e modelagem relacional  
+💻 Engenheiro de Software Júnior com foco em **Java e desenvolvimento backend**  
+🚀 Construindo soluções, integrações e sistemas orientados a regras de negócio  
 📍 São Paulo - Brasil  
 
-Tenho experiência em ambientes corporativos e no desenvolvimento de projetos próprios, aplicando boas práticas de engenharia de software, organização em camadas e código limpo.
+Tenho experiência em ambientes corporativos atuando na análise de requisitos, automação de processos, integração entre áreas de negócio e desenvolvimento de software. Ao longo da minha trajetória, participei de iniciativas que reduziram gargalos operacionais, aumentaram a produtividade de equipes e transformaram necessidades reais em soluções tecnológicas.
 
-Atualmente aprofundando conhecimentos em arquitetura backend, integração entre sistemas e aprimoramento contínuo no ecossistema Java.
+Atualmente aprofundo meus conhecimentos em engenharia de software, arquitetura backend, integração de sistemas e boas práticas de desenvolvimento, buscando construir aplicações escaláveis, organizadas e de alto valor para o negócio.
 
 ---
 
@@ -20,7 +20,7 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 ## Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-101E44?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-101E44.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101E44.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Integração Frontend
 ![HTML](https://img.shields.io/badge/HTML5-101E44?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,17 +36,17 @@ Atualmente aprofundando conhecimentos em arquitetura backend, integração entre
 
 # 🚀 Projetos em Destaque
 
-🔹 **Stored File**  
-API REST para gerenciamento de arquivos com upload real, armazenamento em disco, listagem, atualização e remoção, além de integração com front-end e documentação via OpenAPI/Swagger.
+🔹 **NeoPrice**  
+Plataforma full-stack para precificação de produtos, desenvolvida para auxiliar pequenos empreendedores na definição de preços com base em custos, margem de lucro e indicadores financeiros.
 
-🔹 **Identity Flow**  
-API REST para gerenciamento e autenticação de usuários, com persistência em MySQL, criptografia de senhas, autenticação com Spring Security e integração completa entre front-end e back-end.
+🔹 **Stored File**  
+API REST para gerenciamento de arquivos com upload, armazenamento local, operações CRUD, tratamento de exceções e documentação via OpenAPI/Swagger.
 
 🔹 **Nex Order – Order Management System**  
-API REST colaborativa para gestão de pedidos, produtos e clientes, estruturada em arquitetura em camadas, modelagem relacional com JPA/Hibernate e versionamento incremental via GitHub Projects.
+Sistema colaborativo de gestão de pedidos desenvolvido com Java e Spring Boot, envolvendo modelagem relacional, regras de negócio e desenvolvimento backend em equipe.
 
-🔹 **Axis Finance**  
-Aplicação fullstack para gestão financeira, com controle de categorias, receitas e despesas, dashboard dinâmico, tratamento global de exceções e integração entre back-end e front-end.
+🔹 **Airport Capacity Challenge**  
+API REST desenvolvida para um desafio técnico da Atech (Grupo Embraer), implementando regras de negócio, algoritmos de processamento de eventos, validações e tratamento de exceções para cálculo da ocupação máxima de uma sala de espera aeroportuária.
 
 ---
 
@@ -60,4 +60,4 @@ Aplicação fullstack para gestão financeira, com controle de categorias, recei
 
 # 📈 Objetivo
 
-Consolidar minha carreira como desenvolvedor backend, construindo soluções escaláveis, organizadas e orientadas a impacto real através da tecnologia.
+Evoluir continuamente como Engenheiro de Software, contribuindo para o desenvolvimento de soluções que gerem impacto real, escalabilidade e valor para usuários, equipes e negócios.
